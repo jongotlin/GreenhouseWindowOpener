@@ -1,2 +1,2 @@
 # GreenhouseWindowOpener
-Script to open or close an actuator based on temperatur
+Script to open or close an actuator based on temperature
